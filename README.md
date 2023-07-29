@@ -1,2 +1,2 @@
 # Titanic-Classification
-In this project titanic datasset classificatoion is done. I have tried to analyse the which factors were essential for their  survival. The vvaripous atributes taken into consideration were pclass sex age sibling count  
+In this project titanic dataset classification is done. I have tried to analyze the which factors were essential for their survival. The various attributes taken into consideration were Pclass, sex, age, sibling count. 
